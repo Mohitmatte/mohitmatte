@@ -4,13 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitmatte&label=Profile%20views&color=0e75b6&style=flat" alt="mohitmatte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitmatte" alt="mohitmatte" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science Project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on [Solve Leetcode/GFG problem On Daily Basis](Solve Leetcode/GFG problem On Daily Basis)
+- 📝 I Solve Leetcode/GFG problem On Daily Basis.
 
 - 💬 Ask me about **Data Science , Statistics**
 
