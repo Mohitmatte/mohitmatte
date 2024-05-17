@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 <h1 align="center">Hi 👋, I'm Mohit_Matte</h1>
 <h3 align="center">"Data Science and Machine Learning Student"</h3>
 
@@ -11,7 +11,7 @@
 
 - 📝 I Solve Leetcode/GFG problem On Daily Basis.
 
-- 💬 Ask me about **Data Science , Statistics**
+- 💬 Ask me about **Data Science,Statistics,Data Visualisation**
 
 - 📫 How to reach me **mattemohit2002@gmail.com**
 
