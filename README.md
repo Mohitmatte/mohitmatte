@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mattemohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattemohit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohit-matte-a6496a240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohit-matte-a6496a240" height="30" width="40" /></a>
+<a href="https://linkedin.com/mohit-matte-a6496a240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohit-matte-a6496a240" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mohitmatte0410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohitmatte0410" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/india @mattemohit2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="india @mattemohit2002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohit_matte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohit_matte" height="30" width="40" /></a>
