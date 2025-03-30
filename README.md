@@ -6,13 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **Data Science Project**
+- 🔭 I’m currently working on **Devops  Project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📝 I Solve Leetcode/GFG problem On Daily Basis.
 
-- 💬 Ask me about **Data Science,Statistics,Data Visualisation**
+- 💬 Ask me about **Devops,Machine Leanring,Data Science**
 
 - 📫 How to reach me **mattemohit2002@gmail.com**
 
